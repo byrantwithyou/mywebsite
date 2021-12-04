@@ -6,7 +6,7 @@ title: Yunxin Sun (孫允鑫)
 superuser: true
 
 # Role/position/tagline
-role: Master's student in computer science
+role: Master student in computer science
 
 # Organizations/Affiliations to show in About widget
 organizations:
