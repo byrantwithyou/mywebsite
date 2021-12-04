@@ -6,7 +6,7 @@ title: Yunxin Sun (孫允鑫)
 superuser: true
 
 # Role/position/tagline
-role: Master's student in computer science at ETH Zurich
+role: Master's student in computer science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -40,12 +40,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:martin.yunxin.sun@gmail.com
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yunxin_sun
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=oMha4E4AAAAJ
 - icon: github
   icon_pack: fab
@@ -53,6 +56,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yunxin-sun-8911bb14b
+- icon: zhihu
+  icon_pack: fab
+  link: https://www.zhihu.com/people/martinsun-35
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
