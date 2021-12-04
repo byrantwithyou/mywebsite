@@ -26,10 +26,10 @@ education:
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
-  - course: Msc in Computer Science
+  - course: M.Sc. in Computer Science
     institution: ETH Zurich
     year: 2022
-  - course: Bachelor of Engineering in Software Engineering
+  - course: B.Eng. in Software Engineering
     institution: Tongji University
     year: 2020
 
