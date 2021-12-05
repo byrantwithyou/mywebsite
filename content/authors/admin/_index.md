@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Yunxin Sun (孫允鑫)
+title: Yunxin Sun 孙允鑫
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Master student in computer science
+role: master student in computer science 
 
 # Organizations/Affiliations to show in About widget
 organizations:
