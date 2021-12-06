@@ -18,7 +18,12 @@ bio: I am interested in comptuer systems.
 
 # Interests to show in About widget
 interests:
-- Computer Systems
+- Computer Systems 
+  # [1] Machine Learning for Systems
+  # *Storage Systems
+  # *Data Center Design
+- Core Database Systems
+- Computer Architecture
 
 # Education to show in About widget
 education:
